@@ -1,0 +1,36 @@
+# Binaries and build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Build diagnostics and temporary files
+build_diag.txt
+preprocessed.xml
+
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
